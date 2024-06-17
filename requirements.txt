@@ -1,0 +1,13 @@
+pytz==2023.3.post1
+numpy==1.26.2
+matplotlib==3.8.2
+pywavelets==1.5.0
+seaborn==0.13.1
+scikit-learn==1.4.0
+torchsummary==1.5.1
+imblearn==0.0
+EDFlib-Python==1.0.8
+mne==1.6.0 
+access-parser==0.0.5
+sympy==1.12
+eeglabio==0.0.2
