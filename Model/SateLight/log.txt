@@ -1,0 +1,172 @@
+> > > Epoch     : 1
+Train loss      : 0.004957987543709745
+Valid loss      : 0.00373368498303382
+Train precision : 0.798941798941799
+Valid precision : 1.0
+Train accuracy  : 0.9520111818605373
+Valid accuracy  : 0.9613420860685631
+Train f1_score  : 0.745679012345679
+Valid f1_score  : 0.7557603686635944
+Train recall    : 0.6990740740740741
+Valid recall    : 0.6074074074074074
+> > > Epoch     : 2
+Train loss      : 0.0015100352412233085
+Valid loss      : 0.0043143944539344396
+Train precision : 0.9570747217806042
+Valid precision : 0.9764705882352941
+Train accuracy  : 0.9886628358440752
+Valid accuracy  : 0.9606126914660832
+Train f1_score  : 0.9428347689898199
+Valid f1_score  : 0.7545454545454545
+Train recall    : 0.9290123456790124
+Valid recall    : 0.6148148148148148
+> > > Epoch     : 3
+Train loss      : 0.0010131544130144
+Valid loss      : 0.002582900382100824
+Train precision : 0.9746434231378764
+Valid precision : 0.9037037037037037
+Train accuracy  : 0.9923901226898587
+Valid accuracy  : 0.9810357403355215
+Train f1_score  : 0.9616888193901486
+Valid f1_score  : 0.9037037037037037
+Train recall    : 0.9490740740740741
+Valid recall    : 0.9037037037037037
+> > > Epoch     : 4
+Train loss      : 0.000652073555984905
+Valid loss      : 0.0019654323743020026
+Train precision : 0.9797191887675507
+Valid precision : 0.976
+Train accuracy  : 0.9948749805870477
+Valid accuracy  : 0.9883296863603209
+Train f1_score  : 0.9743987587276959
+Valid f1_score  : 0.9384615384615385
+Train recall    : 0.9691358024691358
+Valid recall    : 0.9037037037037037
+> > > Epoch     : 5
+Train loss      : 0.0004279001282156616
+Valid loss      : 0.0015078064148588736
+Train precision : 0.9725190839694656
+Valid precision : 0.991869918699187
+Train accuracy  : 0.9954961950613449
+Valid accuracy  : 0.9897884755652808
+Train f1_score  : 0.977743668457406
+Valid f1_score  : 0.9457364341085271
+Train recall    : 0.9830246913580247
+Valid recall    : 0.9037037037037037
+> > > Epoch     : 6
+Train loss      : 0.00017516814427521825
+Valid loss      : 0.002766351278059007
+Train precision : 0.9907120743034056
+Valid precision : 0.9758064516129032
+Train accuracy  : 0.9978257493399596
+Valid accuracy  : 0.987600291757841
+Train f1_score  : 0.9891808346213292
+Valid f1_score  : 0.9343629343629344
+Train recall    : 0.9876543209876543
+Valid recall    : 0.8962962962962963
+> > > Epoch     : 7
+Train loss      : 0.000249133207032751
+Valid loss      : 0.002888787361152299
+Train precision : 0.990726429675425
+Valid precision : 0.8266666666666667
+Train accuracy  : 0.9979810529585339
+Valid accuracy  : 0.9730123997082422
+Train f1_score  : 0.9899613899613899
+Valid f1_score  : 0.8701754385964913
+Train recall    : 0.9891975308641975
+Valid recall    : 0.9185185185185185
+> > > Epoch     : 8
+Train loss      : 0.0002027240238337731
+Valid loss      : 0.010034121819123996
+Train precision : 0.9938080495356038
+Valid precision : 0.9029850746268657
+Train accuracy  : 0.9984469638142569
+Valid accuracy  : 0.9803063457330415
+Train f1_score  : 0.9922720247295209
+Valid f1_score  : 0.8996282527881041
+Train recall    : 0.9907407407407407
+Valid recall    : 0.8962962962962963
+> > > Epoch     : 9
+Train loss      : 0.0001252669381423427
+Valid loss      : 0.0028275412581526462
+Train precision : 0.9907692307692307
+Valid precision : 0.9104477611940298
+Train accuracy  : 0.9984469638142569
+Valid accuracy  : 0.9817651349380014
+Train f1_score  : 0.9922958397534669
+Valid f1_score  : 0.9070631970260223
+Train recall    : 0.9938271604938271
+Valid recall    : 0.9037037037037037
+> > > Epoch     : 10
+Train loss      : 0.00017487985587867798
+Valid loss      : 0.0030556419353650467
+Train precision : 0.9922839506172839
+Valid precision : 0.968
+Train accuracy  : 0.9984469638142569
+Valid accuracy  : 0.986870897155361
+Train f1_score  : 0.9922839506172839
+Valid f1_score  : 0.9307692307692308
+Train recall    : 0.9922839506172839
+Valid recall    : 0.8962962962962963
+> > > Epoch     : 11
+Train loss      : 3.911347558973645e-05
+Valid loss      : 0.003446574131753083
+Train precision : 1.0
+Valid precision : 0.968
+Train accuracy  : 0.9996893927628514
+Valid accuracy  : 0.986870897155361
+Train f1_score  : 0.9984544049459042
+Valid f1_score  : 0.9307692307692308
+Train recall    : 0.9969135802469136
+Valid recall    : 0.8962962962962963
+> > > Epoch     : 12
+Train loss      : 1.065096840932911e-05
+Valid loss      : 0.0052722855347108665
+Train precision : 0.9984567901234568
+Valid precision : 0.9384615384615385
+Train accuracy  : 0.9996893927628514
+Valid accuracy  : 0.9846827133479212
+Train f1_score  : 0.9984567901234568
+Valid f1_score  : 0.9207547169811321
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9037037037037037
+> > > Epoch     : 13
+Train loss      : 2.1422365162535087e-05
+Valid loss      : 0.0032732185158131145
+Train precision : 0.9969135802469136
+Valid precision : 1.0
+Train accuracy  : 0.9993787855257027
+Valid accuracy  : 0.987600291757841
+Train f1_score  : 0.9969135802469136
+Valid f1_score  : 0.932806324110672
+Train recall    : 0.9969135802469136
+Valid recall    : 0.8740740740740741
+> > > Epoch     : 14
+Train loss      : 1.7951472067179994e-06
+Valid loss      : 0.0034394756296708285
+Train precision : 1.0
+Valid precision : 0.975609756097561
+Train accuracy  : 1.0
+Valid accuracy  : 0.986870897155361
+Train f1_score  : 1.0
+Valid f1_score  : 0.9302325581395349
+Train recall    : 1.0
+Valid recall    : 0.8888888888888888
+> > > Epoch     : 15
+Train loss      : 5.248902331119185e-05
+Valid loss      : 0.004784892386770633
+Train precision : 0.9969135802469136
+Valid precision : 0.952755905511811
+Train accuracy  : 0.9993787855257027
+Valid accuracy  : 0.9854121079504011
+Train f1_score  : 0.9969135802469136
+Valid f1_score  : 0.9236641221374046
+Train recall    : 0.9969135802469136
+Valid recall    : 0.8962962962962963
+The validation f1 score is not increasing for continuous 10 time, so training stop
+Best model is at epoch: 5
+Metric on testing dataset:
+precision : 0.9558
+accuracy  : 0.9767
+f1_score  : 0.8710
+recall    : 0.8000

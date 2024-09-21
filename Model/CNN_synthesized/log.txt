@@ -1,0 +1,392 @@
+> > > Epoch     : 1
+Train loss      : 0.013779445466368046
+Valid loss      : 0.0018770632975653933
+Train precision : 0.6855721393034826
+Valid precision : 0.9172413793103448
+Train accuracy  : 0.9283273800279547
+Valid accuracy  : 0.9897884755652808
+Train f1_score  : 0.5988700564971752
+Valid f1_score  : 0.95
+Train recall    : 0.5316358024691358
+Valid recall    : 0.9851851851851852
+> > > Epoch     : 2
+Train loss      : 0.01005332674865865
+Valid loss      : 0.0027420291405067646
+Train precision : 0.7211191335740073
+Valid precision : 0.96875
+Train accuracy  : 0.937412641714552
+Valid accuracy  : 0.9890590809628009
+Train f1_score  : 0.6647254575707154
+Valid f1_score  : 0.9429657794676806
+Train recall    : 0.6165123456790124
+Valid recall    : 0.9185185185185185
+> > > Epoch     : 3
+Train loss      : 0.0077228676487239994
+Valid loss      : 0.0029419470834613722
+Train precision : 0.7666666666666667
+Valid precision : 0.9838709677419355
+Train accuracy  : 0.95030284205622
+Valid accuracy  : 0.9890590809628009
+Train f1_score  : 0.7466349960411718
+Valid f1_score  : 0.9420849420849421
+Train recall    : 0.7276234567901234
+Valid recall    : 0.9037037037037037
+> > > Epoch     : 4
+Train loss      : 0.0053216480042492945
+Valid loss      : 0.0036672677264787783
+Train precision : 0.8370830100853375
+Valid precision : 0.9461538461538461
+Train accuracy  : 0.9668426774343842
+Valid accuracy  : 0.9861415025528811
+Train f1_score  : 0.8348162475822051
+Valid f1_score  : 0.9283018867924528
+Train recall    : 0.8325617283950617
+Valid recall    : 0.9111111111111111
+> > > Epoch     : 5
+Train loss      : 0.004289947721029096
+Valid loss      : 0.0012313094820682385
+Train precision : 0.9048374306106265
+Valid precision : 0.8993288590604027
+Train accuracy  : 0.978645752446032
+Valid accuracy  : 0.9883296863603209
+Train f1_score  : 0.892452092295659
+Valid f1_score  : 0.9436619718309859
+Train recall    : 0.8804012345679012
+Valid recall    : 0.9925925925925926
+> > > Epoch     : 6
+Train loss      : 0.0026527569689590766
+Valid loss      : 0.0022309914987864617
+Train precision : 0.9201228878648233
+Valid precision : 0.9696969696969697
+Train accuracy  : 0.9843143345239944
+Valid accuracy  : 0.9919766593727206
+Train f1_score  : 0.922247882986913
+Valid f1_score  : 0.9588014981273408
+Train recall    : 0.9243827160493827
+Valid recall    : 0.9481481481481482
+> > > Epoch     : 7
+Train loss      : 0.002133732949780516
+Valid loss      : 0.0020182334378517387
+Train precision : 0.94765625
+Valid precision : 0.8636363636363636
+Train accuracy  : 0.9883522286069265
+Valid accuracy  : 0.9832239241429613
+Train f1_score  : 0.9417701863354038
+Valid f1_score  : 0.9204152249134948
+Train recall    : 0.9359567901234568
+Valid recall    : 0.9851851851851852
+> > > Epoch     : 8
+Train loss      : 0.001808134847750423
+Valid loss      : 0.0014139088948665625
+Train precision : 0.9447004608294931
+Valid precision : 0.8986486486486487
+Train accuracy  : 0.9892840503183724
+Valid accuracy  : 0.987600291757841
+Train f1_score  : 0.9468822170900693
+Valid f1_score  : 0.9399293286219081
+Train recall    : 0.9490740740740741
+Valid recall    : 0.9851851851851852
+> > > Epoch     : 9
+Train loss      : 0.001701298420978167
+Valid loss      : 0.024804890733989397
+Train precision : 0.9466056445461479
+Valid precision : 1.0
+Train accuracy  : 0.9902935238391054
+Valid accuracy  : 0.9708242159008024
+Train f1_score  : 0.9520521672420407
+Valid f1_score  : 0.8260869565217391
+Train recall    : 0.9575617283950617
+Valid recall    : 0.7037037037037037
+> > > Epoch     : 10
+Train loss      : 0.002149068985261326
+Valid loss      : 0.005364644800524653
+Train precision : 0.9570982839313572
+Valid precision : 0.9847328244274809
+Train accuracy  : 0.9903711756483926
+Valid accuracy  : 0.9941648431801605
+Train f1_score  : 0.951900698215671
+Valid f1_score  : 0.9699248120300752
+Train recall    : 0.9467592592592593
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 11
+Train loss      : 0.0005781032515234531
+Valid loss      : 0.0026730877689090013
+Train precision : 0.9800307219662059
+Valid precision : 0.9772727272727273
+Train accuracy  : 0.9964280167727908
+Valid accuracy  : 0.9934354485776805
+Train f1_score  : 0.9822940723633564
+Valid f1_score  : 0.9662921348314607
+Train recall    : 0.9845679012345679
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 12
+Train loss      : 0.00019218319780714372
+Valid loss      : 0.0016000658558998533
+Train precision : 0.9877488514548239
+Valid precision : 0.9770992366412213
+Train accuracy  : 0.9982916601956826
+Valid accuracy  : 0.9927060539752006
+Train f1_score  : 0.9915449654112222
+Valid f1_score  : 0.9624060150375939
+Train recall    : 0.9953703703703703
+Valid recall    : 0.9481481481481482
+> > > Epoch     : 13
+Train loss      : 9.23368627661796e-05
+Valid loss      : 0.003383627280956103
+Train precision : 0.994619523443505
+Valid precision : 1.0
+Train accuracy  : 0.9993011337164156
+Valid accuracy  : 0.9919766593727206
+Train f1_score  : 0.9965344628417405
+Valid f1_score  : 0.9575289575289575
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9185185185185185
+> > > Epoch     : 14
+Train loss      : 0.00020201405263539244
+Valid loss      : 0.007720209880214865
+Train precision : 0.9930662557781201
+Valid precision : 1.0
+Train accuracy  : 0.9987575710514055
+Valid accuracy  : 0.9897884755652808
+Train f1_score  : 0.9938319198149576
+Valid f1_score  : 0.9453125
+Train recall    : 0.9945987654320988
+Valid recall    : 0.8962962962962963
+> > > Epoch     : 15
+Train loss      : 0.00012500988801044963
+Valid loss      : 0.001651936749525332
+Train precision : 0.9961449498843485
+Valid precision : 1.0
+Train accuracy  : 0.9993011337164156
+Valid accuracy  : 0.9956236323851203
+Train f1_score  : 0.996529116853066
+Valid f1_score  : 0.9772727272727273
+Train recall    : 0.9969135802469136
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 16
+Train loss      : 0.0002811845707347642
+Valid loss      : 0.00245985913341629
+Train precision : 0.9900076863950807
+Valid precision : 0.9699248120300752
+Train accuracy  : 0.9983693120049697
+Valid accuracy  : 0.9927060539752006
+Train f1_score  : 0.9919137466307277
+Valid f1_score  : 0.9626865671641791
+Train recall    : 0.9938271604938271
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 17
+Train loss      : 0.00026451906890207475
+Valid loss      : 0.0016812855449733137
+Train precision : 0.9869431643625192
+Valid precision : 0.9774436090225563
+Train accuracy  : 0.9978257493399596
+Valid accuracy  : 0.9941648431801605
+Train f1_score  : 0.9892224788298691
+Valid f1_score  : 0.9701492537313433
+Train recall    : 0.9915123456790124
+Valid recall    : 0.9629629629629629
+> > > Epoch     : 18
+Train loss      : 0.0004701166533150475
+Valid loss      : 0.0025185058993962635
+Train precision : 0.9899458623356535
+Valid precision : 0.8866666666666667
+Train accuracy  : 0.9977480975306725
+Valid accuracy  : 0.9861415025528811
+Train f1_score  : 0.988798764001545
+Valid f1_score  : 0.9333333333333333
+Train recall    : 0.9876543209876543
+Valid recall    : 0.9851851851851852
+> > > Epoch     : 19
+Train loss      : 0.00027418825608970285
+Valid loss      : 0.006822430981583873
+Train precision : 0.9930609097918273
+Valid precision : 0.9923076923076923
+Train accuracy  : 0.9986799192421183
+Valid accuracy  : 0.9948942377826404
+Train f1_score  : 0.9934438873891246
+Valid f1_score  : 0.9735849056603774
+Train recall    : 0.9938271604938271
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 20
+Train loss      : 0.0002797485684096005
+Valid loss      : 0.008576997449795166
+Train precision : 0.9862385321100917
+Valid precision : 1.0
+Train accuracy  : 0.9981363565771082
+Valid accuracy  : 0.9956236323851203
+Train f1_score  : 0.9907834101382489
+Valid f1_score  : 0.9772727272727273
+Train recall    : 0.9953703703703703
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 21
+Train loss      : 0.000103842516567708
+Valid loss      : 0.006170327616466094
+Train precision : 0.9923254029163469
+Valid precision : 0.9774436090225563
+Train accuracy  : 0.998990526479267
+Valid accuracy  : 0.9941648431801605
+Train f1_score  : 0.9949980761831474
+Valid f1_score  : 0.9701492537313433
+Train recall    : 0.9976851851851852
+Valid recall    : 0.9629629629629629
+> > > Epoch     : 22
+Train loss      : 8.485302661064969e-05
+Valid loss      : 0.006429295185958562
+Train precision : 0.9961508852963818
+Valid precision : 0.9921875
+Train accuracy  : 0.9994564373349899
+Valid accuracy  : 0.9934354485776805
+Train f1_score  : 0.9973025048169557
+Valid f1_score  : 0.9657794676806084
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9407407407407408
+> > > Epoch     : 23
+Train loss      : 3.410038393668394e-05
+Valid loss      : 0.005774889607865594
+Train precision : 0.9992277992277993
+Valid precision : 1.0
+Train accuracy  : 0.9997670445721385
+Valid accuracy  : 0.9963530269876003
+Train f1_score  : 0.998842145889618
+Valid f1_score  : 0.9811320754716981
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9629629629629629
+> > > Epoch     : 24
+Train loss      : 7.607152910816017e-05
+Valid loss      : 0.005425153596785583
+Train precision : 0.9969183359013868
+Valid precision : 1.0
+Train accuracy  : 0.9995340891442771
+Valid accuracy  : 0.9948942377826404
+Train f1_score  : 0.9976869699306091
+Valid f1_score  : 0.973384030418251
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9481481481481482
+> > > Epoch     : 25
+Train loss      : 6.108132095495015e-05
+Valid loss      : 0.005206444751311756
+Train precision : 0.9992277992277993
+Valid precision : 1.0
+Train accuracy  : 0.9997670445721385
+Valid accuracy  : 0.9963530269876003
+Train f1_score  : 0.998842145889618
+Valid f1_score  : 0.9811320754716981
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9629629629629629
+> > > Epoch     : 26
+Train loss      : 2.7863070686115663e-05
+Valid loss      : 0.0049747649879938105
+Train precision : 0.9984579799537394
+Valid precision : 1.0
+Train accuracy  : 0.9997670445721385
+Valid accuracy  : 0.9956236323851203
+Train f1_score  : 0.998843038951022
+Valid f1_score  : 0.9772727272727273
+Train recall    : 0.9992283950617284
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 27
+Train loss      : 1.388662391802563e-05
+Valid loss      : 0.0059250088736746255
+Train precision : 0.9992289899768697
+Valid precision : 1.0
+Train accuracy  : 0.9999223481907128
+Valid accuracy  : 0.9948942377826404
+Train f1_score  : 0.9996143463170073
+Valid f1_score  : 0.973384030418251
+Train recall    : 1.0
+Valid recall    : 0.9481481481481482
+> > > Epoch     : 28
+Train loss      : 2.0640472298081824e-05
+Valid loss      : 0.006025967879331116
+Train precision : 0.9984591679506933
+Valid precision : 0.9923076923076923
+Train accuracy  : 0.9998446963814257
+Valid accuracy  : 0.9948942377826404
+Train f1_score  : 0.9992289899768697
+Valid f1_score  : 0.9735849056603774
+Train recall    : 1.0
+Valid recall    : 0.9555555555555556
+> > > Epoch     : 29
+Train loss      : 0.00016998843549431825
+Valid loss      : 0.006876034999368201
+Train precision : 0.9938366718027735
+Valid precision : 1.0
+Train accuracy  : 0.9989128746699798
+Valid accuracy  : 0.9934354485776805
+Train f1_score  : 0.9946029298380878
+Valid f1_score  : 0.9655172413793104
+Train recall    : 0.9953703703703703
+Valid recall    : 0.9333333333333333
+> > > Epoch     : 30
+Train loss      : 0.00010233171564661184
+Valid loss      : 0.0039523041708924775
+Train precision : 0.9976833976833976
+Valid precision : 1.0
+Train accuracy  : 0.9994564373349899
+Valid accuracy  : 0.9941648431801605
+Train f1_score  : 0.9972983404091085
+Valid f1_score  : 0.9694656488549618
+Train recall    : 0.9969135802469136
+Valid recall    : 0.9407407407407408
+> > > Epoch     : 31
+Train loss      : 1.8939839195342604e-05
+Valid loss      : 0.004480190814795742
+Train precision : 0.9992289899768697
+Valid precision : 1.0
+Train accuracy  : 0.9999223481907128
+Valid accuracy  : 0.9941648431801605
+Train f1_score  : 0.9996143463170073
+Valid f1_score  : 0.9694656488549618
+Train recall    : 1.0
+Valid recall    : 0.9407407407407408
+> > > Epoch     : 32
+Train loss      : 1.676670215309684e-05
+Valid loss      : 0.0027287657359655864
+Train precision : 0.9992289899768697
+Valid precision : 1.0
+Train accuracy  : 0.9999223481907128
+Valid accuracy  : 0.9948942377826404
+Train f1_score  : 0.9996143463170073
+Valid f1_score  : 0.973384030418251
+Train recall    : 1.0
+Valid recall    : 0.9481481481481482
+> > > Epoch     : 33
+Train loss      : 1.5989580858252558e-05
+Valid loss      : 0.004741864225936643
+Train precision : 0.9992283950617284
+Valid precision : 1.0
+Train accuracy  : 0.9998446963814257
+Valid accuracy  : 0.9934354485776805
+Train f1_score  : 0.9992283950617284
+Valid f1_score  : 0.9655172413793104
+Train recall    : 0.9992283950617284
+Valid recall    : 0.9333333333333333
+> > > Epoch     : 34
+Train loss      : 6.166570608183446e-06
+Valid loss      : 0.005252981953828977
+Train precision : 0.9992289899768697
+Valid precision : 1.0
+Train accuracy  : 0.9999223481907128
+Valid accuracy  : 0.9941648431801605
+Train f1_score  : 0.9996143463170073
+Valid f1_score  : 0.9694656488549618
+Train recall    : 1.0
+Valid recall    : 0.9407407407407408
+> > > Epoch     : 35
+Train loss      : 6.363307504322174e-05
+Valid loss      : 0.004951890252193145
+Train precision : 0.9984567901234568
+Valid precision : 0.9770992366412213
+Train accuracy  : 0.9996893927628514
+Valid accuracy  : 0.9927060539752006
+Train f1_score  : 0.9984567901234568
+Valid f1_score  : 0.9624060150375939
+Train recall    : 0.9984567901234568
+Valid recall    : 0.9481481481481482
+The validation f1 score is not increasing for continuous 10 time, so training stop
+Best model is at epoch: 25
+Metric on testing dataset:
+precision : 0.9688
+accuracy  : 0.9891
+f1_score  : 0.9430
+recall    : 0.9185
